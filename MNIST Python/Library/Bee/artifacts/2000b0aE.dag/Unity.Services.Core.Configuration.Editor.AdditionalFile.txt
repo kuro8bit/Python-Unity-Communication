@@ -1,1 +1,1 @@
-/Users/kuro/unityProjects/MNIST Python
+/Users/kuro/Github/Python-Unity-Communication/MNIST Python
