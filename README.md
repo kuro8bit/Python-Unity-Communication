@@ -14,4 +14,4 @@ Unity display in red the highest prediction
 ### Resources
 * Unity/Python UDP Socket Communication: [github/Siliconifier](https://github.com/Siliconifier/Python-Unity-Socket-Communication)
 
-* Unity Draw Method: []()
+* Unity Draw Method: [github/Kazuhito00](https://github.com/Kazuhito00/Unity-Barracuda-MNIST-WebGL-Sample)
