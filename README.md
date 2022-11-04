@@ -10,6 +10,14 @@ Unity display in red the highest prediction
 
 **You must run Python code at first before run Unity**
 
+## Requirement
+
+Unity 2021.3.11f or later
+
+Python 3.9
+
+Keras
+
 
 ### Resources
 * Unity/Python UDP Socket Communication: [github/Siliconifier](https://github.com/Siliconifier/Python-Unity-Socket-Communication)
